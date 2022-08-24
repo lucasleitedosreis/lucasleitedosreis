@@ -3,7 +3,7 @@ Olá, sou o Lucas... 👋
 - 📚 Atualmente faço faculdade de Ciências da Computação.
 - 💼 Em busca da primeira oportunidade.
 - 📚 Faço curso da Origamid, Front-End.
-- Html - Css - React - styled-components
+- Html - Css -JavaScript - ReactJs
 
 <div align="center">
   <a href="https://github.com/lucasleitedosreis">
